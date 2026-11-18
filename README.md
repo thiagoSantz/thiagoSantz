@@ -9,7 +9,7 @@
 
 ## 🛠️ Stack atual
 
-`JavaScript (ES6+)` `HTML5` `CSS3` `Webpack` `Git`
+`JavaScript (ES6+)` `HTML5` `CSS3` `Webpack` `Git` `Jest` `Fetch API / Async-Await`
 
 ## 📌 Projetos em destaque
 
