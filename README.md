@@ -2,7 +2,6 @@
 
 🌱 Estudante de desenvolvimento web, cursando o currículo Full Stack JavaScript do [The Odin Project](https://www.theodinproject.com/)
 🎯 Buscando minha primeira oportunidade na área — estágio ou vaga júnior — conforme avanço no curso
--
 🇧🇷 Português nativo · 🇬🇧 Inglês avançado
 
 ---
