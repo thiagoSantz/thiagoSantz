@@ -25,6 +25,7 @@
 ## 📬 Contato
 
 📧 thiagosantz@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/thiagosantz)
 
 ---
 
